@@ -1,3 +1,4 @@
+# Darren Henry
 # Dice Roll Distribution Simulator
 
 # Built-in libraries utilized by program

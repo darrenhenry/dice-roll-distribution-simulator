@@ -1,6 +1,6 @@
 # Dice Roll Distribution Simulator
 
-Welcome to the Dice Roll Distribution Simulator!
+Welcome to my Dice Roll Distribution Simulator!
 
 What it Does:
 - Two dice are thrown for each roll, resulting in a total from two to twelve
